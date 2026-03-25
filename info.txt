@@ -1,0 +1,7 @@
+Nombre: Víctor Rojo
+
+Fecha: 10 de marzo de 2026
+
+Objetivo: Practicar la creación de repositorios, clonación, manejo de ramas, commits y Pull Requests.
+
+Pull Request: Es una petición en GitHub para que los cambios realizados en una rama secundaria sean revisados e integrados a la rama principal (main).
